@@ -1,2 +1,4 @@
 # cuddly-doodle
-This project is my first github exercise.
+hello world!
+The project is my first github exercise.
+hahah 
